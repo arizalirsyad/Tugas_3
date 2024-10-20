@@ -1,0 +1,15 @@
+country;age;salary;purchased
+france;44;72000;no
+spain;27;48000;yes
+germany;30;54000;no
+spain;38;61000;no
+germany;40;;yes 
+france;35;58000;yes
+spain;;52000;no
+france;48;79000;yes
+germany;50;83000;no
+france;37;67000;yes
+indonesia;20;50000;no
+france;22;45000;yes
+indonesia;45;21400;no
+indonesia;29;40000;no
